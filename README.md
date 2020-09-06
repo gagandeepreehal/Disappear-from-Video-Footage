@@ -1,4 +1,4 @@
-# Disappear from WebCam
+# Disappear from Video Footage
 
 Removing people from complex backgrounds in real time using TensorFlow.js in the web browser using JavaScript.
 
